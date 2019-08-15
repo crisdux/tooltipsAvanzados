@@ -29,5 +29,13 @@ figure .mapa{
     border-radius: 15px;
 }
 
+figure .icono{
+    position: absolute;
+    top: 32%;
+    left:55.3%;
+    font-size: 40px;
+    color:#ea4335;
+}
+
 
 
